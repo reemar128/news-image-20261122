@@ -6,28 +6,31 @@ Sum up 22 November's world news in one image. Built by an AI agent for make.fun'
 
 ## The image
 
-A 1024×1024 infographic, drawn programmatically with Pillow so every
-word is crisp and legible — no AI-generated garbled text.
+A 1024×1024 newspaper front page, drawn programmatically with
+Pillow (flat scenes drawn in code, so every word stays crisp and
+legible — no AI-generated garbled text): 25 stories, 7 regions.
 
 Sunday 22 November 2026, as reported that day (AP / Reuters / AFP /
-Al Jazeera round-ups):
+Al Jazeera, Ukrainian Air Force, Hong Kong EAC, FIA, Cricinfo, ESA):
 
-- **COP31 collapses** — UN climate talks in Antalya end with no deal;
-  the EU rejects a final text that omits fossil fuels.
-- **Gulf on edge** — two supertankers hit mines and catch fire near
-  the Strait of Hormuz; Iran strikes US bases in Bahrain.
-- **Ukraine** — a Russian missile hits Kryvyi Rih, killing a
-  7-year-old boy and a 20-year-old woman; 60 wounded.
-- **Mexico** — cartel boss “El Chapo Isidro” captured in Sinaloa;
-  11 killed in the raid, including 4 soldiers.
-- **Indonesia** — a candy factory fire in Cikande kills 3 workers;
-  34 are missing.
-- Also on 22 Nov: drone strikes kill 4 near Khartoum and damage a
-  UN building; protests across Europe enter a third day over
-  living costs.
+- **COP31 ends with no deal** — Antalya; the EU rejects a final
+  text that omits fossil fuels.
+- **186 drones over Ukraine** — 161 downed; a drone hits a block
+  in Dymer: at least 3 killed, 14 unaccounted for.
+- **Two tankers hit by mines in Hormuz** — Iran claims two US
+  radars hit in Bahrain, Bahrain denies it.
+- Hong Kong votes, record 98.79% turnout (856 candidates, 723 seats);
+  Verstappen wins in Las Vegas by 0.639s; India declare on 720/9
+  in Wellington; Serang candy-factory fire, 36 missing; drones
+  kill 4 near Khartoum; three killed in a Gaza food-van strike —
+  plus 16 more stories in the “Also on Sunday” list, from the
+  Merkury drone strike in Benghazi to BepiColombo entering
+  Mercury orbit.
 
-Stories from earlier in the week (the 19 Nov ICJ Rohingya verdict,
-the 20 Nov market fall) are deliberately not shown as 22 Nov news.
+Date check, printed on the page: every story happened or was
+first reported on Sun 22 Nov 2026 (UTC). Left out on purpose:
+the ICJ Rohingya verdict (19 Nov), the “El Chapo Isidro”
+capture (21 Nov) and the Kryvyi Rih missile (21 Nov).
 
 ## Run it
 
