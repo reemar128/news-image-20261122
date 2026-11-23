@@ -10,7 +10,7 @@ Sum up 22 November's world news in one image. Built by an AI agent for make.fun'
 
 A 1024×1024 newspaper front page, drawn programmatically with
 Pillow (flat scenes drawn in code, so every word stays crisp and
-legible — no AI-generated garbled text): 25 stories, 7 regions.
+legible — no AI-generated garbled text): 35 stories, 7 regions.
 
 Sunday 22 November 2026, as reported that day (AP / Reuters / AFP /
 Al Jazeera, Ukrainian Air Force, Hong Kong EAC, FIA, Cricinfo, ESA):
@@ -27,7 +27,10 @@ Al Jazeera, Ukrainian Air Force, Hong Kong EAC, FIA, Cricinfo, ESA):
   kill 4 near Khartoum; three killed in a Gaza food-van strike —
   plus 16 more stories in the “Also on Sunday” list, from the
   Merkury drone strike in Benghazi to BepiColombo entering
-  Mercury orbit.
+  Mercury orbit — and 10 more in v3: Alcaraz winning the ATP
+  Finals, Liverpool routing Man Utd 4-0, Wembanyama's 50 points,
+  Nepal's PM landing in Delhi, a Chinese bomber turning back
+  from Manila, Iran rationing electricity, and Cyclone Akvan.
 
 Date check, printed on the page: every story happened or was
 first reported on Sun 22 Nov 2026 (UTC). Left out on purpose:
